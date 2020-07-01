@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoLessonScreen</string>
+    <string name="lorem">Lorem</string>
+    <string name="price">$ 2</string>
+    <string name="packages">Packeges</string>
+</resources>
